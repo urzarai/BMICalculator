@@ -1,24 +1,19 @@
-#BMI Calculator
+# BMI Calculator
 
 This is a simple Body Mass Index (BMI) calculator web application. The app allows users to input their weight and height to calculate their BMI and determine their weight category.
 
+### Live Demo : https://bmi-calculator-eight-drab.vercel.app/
 
-#Features
+# Features
 
 User-friendly interface
-
 Calculates BMI based on weight (kg) and height (cm)
-
 Displays BMI result with corresponding weight category (Underweight, Normal, Overweight, Obese)
-
 Responsive design for various screen sizes
 
-#Technologies Used
+# Technologies Used
 
 HTML
-
 CSS
-
 JavaScript
-
 Vercel (for deployment)
